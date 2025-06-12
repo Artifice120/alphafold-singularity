@@ -1,8 +1,7 @@
 # Changes in fork
 > * SingularityFile added in Docker folder to build with singularity. (Should operate the same)
-
-
-![header](imgs/header.jpg)
+>
+> 
 
 # AlphaFold
 
